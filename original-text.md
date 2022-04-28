@@ -1,4 +1,4 @@
-<h1>*Frankenstein*, Volume II, Chapter VIII</h1>
+<h1><em>Frankenstein</em>, Volume II, Chapter VIII</h1>
 <h2>By Mary Shelley</h2>
 
 ...He and his companion entered the cottage, in which they remained for a few minutes, and then departed. I never saw any of the family of De Lacey more.
